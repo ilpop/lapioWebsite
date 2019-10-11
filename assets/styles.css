@@ -1,0 +1,30 @@
+.container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container2 {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    left: 250px;
+    bottom: 130px;
+    position: relative;
+}
+
+.container3 {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    left: 500px;
+    bottom: 260px;
+    position: relative;
+}
+
