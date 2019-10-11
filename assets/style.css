@@ -1,15 +1,50 @@
 p { 
-    color: red;
+    
 }
 
 h1 {
-    color:blue;
+    color:#333;
+    margin top:1em;
+    padding top: 1em;
 }
 
+
 li {
-    color:pink;
+    
 }
 
 em { 
-    color:rebeccapurple
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
+}
+
+body{
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1,5;
+    padding: 4em lem;
+    color: #555;
+}
+
+h2{
+    color :#333;
+}
+
+code { 
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
+}
+
+.sisennys {
+    width: 200px;
+    height: 100px;
+ 
+    margin: 10px;
+    padding: 10px;
+    left: 300px;
+
+    position: relative;
 }
